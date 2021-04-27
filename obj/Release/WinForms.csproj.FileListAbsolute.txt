@@ -1,0 +1,11 @@
+C:\Users\Данил\Desktop\HiveNet-master\project\bin\Release\ProjectAIS.exe.config
+C:\Users\Данил\Desktop\HiveNet-master\project\bin\Release\ProjectAIS.exe
+C:\Users\Данил\Desktop\HiveNet-master\project\bin\Release\ProjectAIS.pdb
+C:\Users\Данил\Desktop\HiveNet-master\project\obj\Release\WinForms.Windows.Form_Client.resources
+C:\Users\Данил\Desktop\HiveNet-master\project\obj\Release\WinForms.Windows.Form_Enter.resources
+C:\Users\Данил\Desktop\HiveNet-master\project\obj\Release\WinForms.Windows.Form_Server.resources
+C:\Users\Данил\Desktop\HiveNet-master\project\obj\Release\Test2Net.Properties.Resources.resources
+C:\Users\Данил\Desktop\HiveNet-master\project\obj\Release\WinForms.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\HiveNet-master\project\obj\Release\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\HiveNet-master\project\obj\Release\ProjectAIS.exe
+C:\Users\Данил\Desktop\HiveNet-master\project\obj\Release\ProjectAIS.pdb
